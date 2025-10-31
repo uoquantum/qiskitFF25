@@ -65,7 +65,7 @@ title: Home
   <h3>Where to find us</h3>
   <ul class="keypoints">
     <li>Day 1 - Marion Hall room 150.</li>
-    <li>Day 2 - Marion Hall room 117.</li>
+    <li>Day 2 - Marion Hall room 150.</li>
   </ul>
 </section>
 
