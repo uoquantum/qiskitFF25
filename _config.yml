@@ -1,7 +1,7 @@
 title: "Qiskit Fall Fest 2025 — uOttawa"
 description: "Workshops + hackathon. Free. Beginners welcome."
-url: "https://uoquantum.github.io"     # GitHub Pages root
-baseurl: "/qiskitFF25"          # Repo name, with leading slash
+url: "https://www.uoquantum.com"     # GitHub Pages root
+baseurl: ""          # Repo name, with leading slash
 timezone: America/Toronto
 
 register_url: "https://forms.cloud.microsoft/pages/responsepage.aspx?id=sdof1BV-_Uy1-nIA5U3ra2Da3yvAsQ9Lv33M6p7_nVpURThWSFc4QUtQRTFWU1FZVUlJVllKMDAwMi4u&route=shorturl"
