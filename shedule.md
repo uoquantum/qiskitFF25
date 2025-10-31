@@ -8,7 +8,7 @@ permalink: /schedule/
 <section class="card">
   <h2>Schedule</h2>
 
-  <h3 class="day-heading">Day 1 • Workshops (Sat, Nov 1)</h3>
+  <h3 class="day-heading">Day 1 (Sat, Nov 1) • Workshops • Marion Hall Room 150</h3>
   <table class="schedule-table">
     <thead>
       <tr>
@@ -32,7 +32,7 @@ permalink: /schedule/
     </tbody>
   </table>
 
-  <h3 class="day-heading">Day 2 (Sun, Nov 2)</h3>
+  <h3 class="day-heading">Day 2 (Sun, Nov 2) • Hackathon • Marion Hall Room 150</h3>
   <table class="schedule-table">
     <thead>
       <tr>

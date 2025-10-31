@@ -61,6 +61,12 @@ title: Home
     <li>GitHub for projects and submissions.</li>
     <li>Discord for announcements, team-finding, and support.</li>
   </ul>
+
+  <h3>Where to find us</h3>
+  <ul class="keypoints">
+    <li>Day 1 - Marion Hall room 150.</li>
+    <li>Day 2 - Marion Hall room 117.</li>
+  </ul>
 </section>
 
 <!-- <section class="card">
