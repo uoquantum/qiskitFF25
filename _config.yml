@@ -16,5 +16,12 @@ permalink: pretty
 # _config.yml
 # schedule_mode: "live"   # change to "live" when the JSON/UI is ready "tba"
 
+
+# Challenges / prompts
+prompts_live: false            # flip to true when the repo is public
+prompts_repo: "https://github.com/uoquantum/QFF25_Hackathon"
+prompts_release_time: "Nov 2, 2025 • 10:30 ET"
+
+
 exclude:
   - archive/old-site/**
