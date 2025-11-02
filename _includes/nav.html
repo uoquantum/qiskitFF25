@@ -7,7 +7,7 @@
   <nav id="site-menu" class="site-menu" role="navigation">
     <!-- Mobile CTA (inside the dropdown) -->
     <a href="{{ site.register_url | default: '/registration/' | relative_url }}"
-       class="nav-link cta show-mobile" target="_blank" rel="noopener">Register</a>
+       class="nav-link cta show-mobile" target="_blank" rel="noopener">Challenges</a>
 
     {% for item in site.data.nav %}
       <a href="{{ item.url | relative_url }}"
@@ -20,6 +20,6 @@
   <!-- Desktop CTA (far right) -->
   <a class="btn header-cta"
      href="{{ site.register_url | default: '/registration/' | relative_url }}"
-     target="_blank" rel="noopener">Register</a>
+     target="_blank" rel="noopener">Challenges</a>
 </div>
 
