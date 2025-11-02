@@ -1,11 +1,11 @@
-- title: Call for Sponsors!
-  url: /sponsorship/
+# - title: Call for Sponsors!
+#   url: /sponsorship/
 - title: Schedule
   url: /schedule/
 - title: Speakers
   url: /speakers/
-# - title: Sponsors
-#   url: /sponsors/
+- title: Sponsors
+  url: /sponsors/
 - title: Organizers
   url: /organizers/
 - title: FAQ
