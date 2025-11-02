@@ -32,7 +32,7 @@ permalink: /schedule/
     </tbody>
   </table>
 
-  <h3 class="day-heading">Day 2 (Sun, Nov 2) • Hackathon • Marion Hall Room 150</h3>
+  <h3 class="day-heading">Day 2 (Sun, Nov 2) • Hackathon • STEM Room 117</h3>
   <table class="schedule-table">
     <thead>
       <tr>
