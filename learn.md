@@ -20,7 +20,9 @@ permalink: /learn/
 " target="_blank" rel="noopener">Qiskit 101 (Colab)</a>.</li>
       <li>Run the first cells to install Qiskit (the notebook guides you).</li>
       <li>Skim the first chapter of the <a href="https://qiskit.org/textbook/" target="_blank" rel="noopener">Qiskit Textbook</a>.</li>
-      <li> Please check these as well: <a href="https://quantum.cloud.ibm.com/docs/en/guides/quick-start" target="_blank" rel="noopener"> Quickstart </a> & <a href="https://github.com/uoquantum/QFF_Tutorials/tree/main" target="_blank" rel="noopener"> Tutorials.</li>
+      <li> Please check these as well: 
+        <a href="https://quantum.cloud.ibm.com/docs/en/guides/quick-start" target="_blank" rel="noopener"> Quickstart </a> & 
+        <a href="https://github.com/uoquantum/QFF_Tutorials/tree/main" target="_blank" rel="noopener"> Tutorials.</a></li>
     </ol>
     <p class="note">No installs required — everything runs in your browser via Google Colab.</p>
   </section>
