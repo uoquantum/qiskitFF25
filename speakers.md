@@ -113,7 +113,7 @@ permalink: /speakers/
         <h3>Utkarsh Singh</h3>
         <p class="affil">University of Ottawa/ NRC-CNRC; PhD Candidate, Qiskit Advocate</p>
         <p class="bio">
-          
+          PhD candidate in Physics at the University of Ottawa and National Research Council of Canada, focusing on Quantum Machine Learning and real-world quantum applications of QML.
         </p>
         <div class="link-row">
           <a class="icon-btn" href="https://www.linkedin.com/in/utkarsh-singhh/" target="_blank" rel="noopener" aria-label="LinkedIn">
@@ -121,9 +121,6 @@ permalink: /speakers/
           </a>
         </div>
         <p class="pill">Talk: <strong>Quantum Machine Learning using Qiskit</strong></p>
-        <p class="bio">
-          PhD candidate in Physics at the University of Ottawa and National Research Council of Canada, focusing on Quantum Machine Learning and real-world quantum applications of QML.
-        </p>
       </article>
 
 
