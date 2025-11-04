@@ -122,7 +122,7 @@ permalink: /speakers/
         </div>
         <p class="pill">Talk: <strong>Quantum Machine Learning using Qiskit</strong></p>
         <p class="bio">
-          PhD candidate in Physics at the University of Ottawa and National Research Council of Canada, focusing on Quantum Machine Learning and real-world quantum applications.
+          PhD candidate in Physics at the University of Ottawa and National Research Council of Canada, focusing on Quantum Machine Learning and real-world quantum applications of QML.
         </p>
       </article>
 
